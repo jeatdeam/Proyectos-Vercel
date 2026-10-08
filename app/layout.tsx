@@ -10,14 +10,14 @@ export const metadata: Metadata = {
   description:
     'Vota por tu creador favorito en los INKLOP Awards 2026 y participa en el sorteo para acompañarlo en la alfombra roja y la gala exclusiva.',
   generator: 'v0.app',
-  icons: {
-    icon: [
-      { url: '/icon-light-32x32.png', media: '(prefers-color-scheme: light)' },
-      { url: '/icon-dark-32x32.png', media: '(prefers-color-scheme: dark)' },
-      { url: '/icon.svg', type: 'image/svg+xml' },
-    ],
-    apple: '/apple-icon.png',
-  },
+  // icons: {
+  //   icon: [
+  //     { url: '/logo.png', media: '(prefers-color-scheme: light)' },
+  //     { url: '/logo.png', media: '(prefers-color-scheme: dark)' },
+  //     { url: '/logo.png', type: 'image/svg+xml' },
+  //   ],
+    // apple: '/apple-icon.png',
+  // },
 }
 
 export const viewport: Viewport = {
